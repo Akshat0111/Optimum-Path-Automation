@@ -1,4 +1,4 @@
-# Automated-Route-Planner
+# Optimum-Path-Automation
 A Google Maps Automation Script which takes Source,Destination and all the stopage as inputs and then generates a HTML file and a PDF of all the most optimum route and directions from source to destination along with their commute details.It automates the process of finding the most optimum route and saves a PDF of its Direction to your disk. 
 
 It done using - 
