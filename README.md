@@ -15,3 +15,5 @@ Install puppeteer npm i puppeteer Note: When you install Puppeteer, it downloads
 **Enter location  in 'location.json' file and update the'.bat' File before running**
 
  # Working
+ ![Map](Images/screenshot0.png)
+ ![Result](Images/result.png)
